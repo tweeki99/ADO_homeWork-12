@@ -1,0 +1,16 @@
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\CityPhones.exe.config
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\CityPhones.exe
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\CityPhones.pdb
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\EntityFramework.dll
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\EntityFramework.xml
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.csprojAssemblyReference.cache
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.MainForm.resources
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.Properties.Resources.resources
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.csproj.GenerateResource.cache
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.csproj.CoreCompileInputs.cache
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.csproj.CopyComplete
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.exe
+C:\Users\шипиловд.CORP\source\repos\CityPhones\CityPhones\obj\Debug\CityPhones.pdb
